@@ -5,6 +5,9 @@ format: html
 editor: visual
 self-contained: true
 ---
+```{r}
+options(repos = c(CRAN = "https://cran.rstudio.com"))
+```
 
 # load relevant packages
 
