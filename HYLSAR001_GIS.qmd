@@ -1,6 +1,13 @@
 ---
 title: "GIS"
 author: "Sarah Hyland"
+format: html
+editor: visual
+---
+
+---
+title: "GIS"
+author: "Sarah Hyland"
 format: pdf
 editor: visual
 ---
