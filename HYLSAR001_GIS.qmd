@@ -1,8 +1,9 @@
 ---
 title: "GIS"
 author: "Sarah Hyland"
-format: pdf
+format: html
 editor: visual
+self-contained: true
 ---
 
 # load relevant packages
